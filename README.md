@@ -77,7 +77,7 @@ Session data is stored and managed on the server. The server generates a distinc
 
 ## Read More 🌟
 
-For a detailed guide, please visit our blog: [Web Sessions: A Comprehensive Guide](https://yourbloglink.com) 🌐
+For a detailed guide, please visit our blog: [Web Sessions: A Comprehensive Guide](https://medium.com/@butanijeel1/web-sessions-a-comprehensive-guide-cce2ee00fb08) 🌐
 
 Feel free to reach out with any questions or feedback! 🙌
 
