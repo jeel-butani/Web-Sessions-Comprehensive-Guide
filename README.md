@@ -11,6 +11,7 @@ In web development, a **session** refers to a method for maintaining state infor
 A web session is a period of interaction between a user and a website, during which the website maintains state information about the user’s actions and preferences. Here’s a step-by-step look at how sessions are started and ended:
 
 1. **Session Initiation**: When a user logs in to a website using their credentials, the server verifies these credentials and, upon successful login, generates a unique session ID. This session ID is then sent to the user’s web browser, typically stored in a cookie. 🍪
+For a detailed guide, please visit our blog: [Cookie](https://github.com/venishaparmar/The-Essential-Guide-to-Cookies) 🌐
 2. **Session Tracking**: As the user navigates the site, their browser sends the session ID with each request. The server uses this ID to retrieve the corresponding session data, allowing it to track the user’s actions and preferences throughout their visit. 🌐
 3. **Session Termination**: When the user logs out, the browser sends a session termination request. The server responds by acknowledging the request and terminating the session, ensuring that all associated data is cleared. 🚪
 
@@ -52,6 +53,7 @@ Sessions are utilized in various applications, including:
 ### Client-side Session Management 📱
 
 Session data is stored and managed on the client side, typically within a cookie or using browser storage mechanisms such as local or session storage. The session data may be encrypted or encoded for security, and the server relies on the client to send the session data with each request.
+
 
 ### Server-side Session Management 💻
 
